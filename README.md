@@ -1,5 +1,5 @@
 # keeb
-- keeping track of my keyboard splurges
+keeping track of my keyboard splurges
 
 ## keyboards
 - [x] ducky miya pro
